@@ -1,7 +1,7 @@
 # What's this:
 This is the backend system for CommerceNest System  
 
-#How to use:
+# How to use:
 ## Notice: Make sure that the permission of ./etc/mysql/my.cnf is 0444
 `chmod 0444 my.cnf`
 ### Precondition:  
